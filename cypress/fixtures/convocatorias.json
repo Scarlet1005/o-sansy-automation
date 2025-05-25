@@ -1,0 +1,24 @@
+[
+    {
+        "nombre": "Convocatoria Matemáticas",
+        "descripcion": "Para alumnos de secundaria",
+        "estado": "1",
+        "inscripcionInicio": "2025-06-01",
+        "inscripcionFin": "2025-06-10",
+        "pagoInicio": "2025-06-11",
+        "pagoFin": "2025-06-15",
+        "competenciaInicio": "2025-06-20",
+        "competenciaFin": "2025-06-25"
+    },
+    {
+        "nombre": "Convocatoria Física",
+        "descripcion": "Nivel universitario",
+        "estado": "1",
+        "inscripcionInicio": "2025-07-01",
+        "inscripcionFin": "2025-07-05",
+        "pagoInicio": "2025-07-06",
+        "pagoFin": "2025-07-10",
+        "competenciaInicio": "2025-07-15",
+        "competenciaFin": "2025-07-20"
+    }
+]
